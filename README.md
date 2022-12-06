@@ -1,0 +1,1 @@
+my solution to https://adventofcode.com/2022/ in python
